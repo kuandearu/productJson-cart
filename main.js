@@ -45,6 +45,6 @@ function displayCart(){
         
     });
     totalAmountContainer.innerHTML = (`<p>Amount: </p>`);
-    totalAmountContainer.innerHTML += (`<p>Total - ${overAllPrice} VND</p>`);
+    totalAmountContainer.innerHTML += (`<p> Total - ${overAllPrice} VND</p>`);
 }
 
