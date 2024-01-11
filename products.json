@@ -1,0 +1,41 @@
+{
+    "products" : [
+        {
+            "productId" : 1,
+            "productName" : "Apple",
+            "productPrice": "20000",
+            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYnc4owRRH-m0i5-4t-xyiRMvzvhu-QAVF_g&usqp=CAU"
+
+        },
+        {
+            "productId" : 2,
+            "productName" : "Banana",
+            "productPrice": "25000",
+            "imageUrl" : "https://th-thumbnailer.cdn-si-edu.com/4Nq8HbTKgX6djk07DqHqRsRuFq0=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/d5/24/d5243019-e0fc-4b3c-8cdb-48e22f38bff2/istock-183380744.jpg"
+        },
+        {
+            "productId" : 3,
+            "productName" : "Cucumber",
+            "productPrice": "30000",
+            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTouzRCT_x_MdFZzt2sfqnReS-yvVei1ukA&usqp=CAU"
+        },
+        {
+            "productId" : 4,
+            "productName" : "Durian",
+            "productPrice": "35000",
+            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vfcea6OjycQ3dOJCqlkb4DjrRiQBb7_mlg&usqp=CAU"
+        },
+        {
+            "productId" : 5,
+            "productName" : "Emblica",
+            "productPrice": "40000",
+            "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmRbYWVY3WfJVhVRDTKeJKo6RT3Q4K_zfow&usqp=CAU"
+        },
+        {
+            "productId" : 6,
+            "productName" : "Orange",
+            "productPrice": "45000",
+            "imageUrl" : "  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaWyx0u3SH5mRU0n9x3iPJFmcYJhqpZZc-qg&usqp=CAU"
+        }
+    ]
+}
